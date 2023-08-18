@@ -16,6 +16,9 @@ body {
     padding-top: 25px;
     padding-bottom: 40px;
 }
+
+.nav>li>a:focus, .nav>li>a:hover { background-color: #3c2a30; color: #ffffff; }
+
 .navbar-brand a:hover, .navbar-brand a:focus {
     text-decoration: none;
 }
